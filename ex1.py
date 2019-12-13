@@ -1,6 +1,5 @@
 size = input('Hauteur du sapin :')
 
-print(size)
 space = ' '
 
 for i in range(0,int(size)):
